@@ -1,0 +1,25 @@
+# ¿Qué significa la extensión de un archivo?
+
+La **extensión de un archivo** es la parte final del nombre de un archivo que aparece después del punto (`.`), como en las fotos (`.jpg`).  
+
+Sirve para indicar **qué tipo de archivo es** y **qué programa puede abrirlo**.
+
+## Características de la extensión
+
+### Identificación
+Indica el **tipo de archivo** y la **aplicación asociada** que puede abrirlo.
+
+### Formato
+Representa **cómo están codificados los datos**, por ejemplo:
+
+- texto
+- imagen
+- binario
+
+---
+
+## ¿Para qué sirve la extensión?
+
+- Identificar el tipo de archivo.
+- Indicar qué programa puede abrirlo.
+- Ayudar al sistema operativo a manejar el archivo correctamente.
